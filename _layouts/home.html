@@ -24,14 +24,16 @@ layout: default
 
   <ul class="post-list">
     {% for category in site.categories %}
-    <li><a href="{{ category.url }}">
-      <div class="post-link__heading">
-        <h1 class="post-link__title">
-         {{ category.name }}
+    {{ category.name }}
 
-        </h1>
-      </div>
-    </a></li>
+    <!--    <li><a href="{{ category.url }}">-->
+<!--      <div class="post-link__heading">-->
+<!--        <h1 class="post-link__title">-->
+<!--         {{ category.name }}-->
+
+<!--        </h1>-->
+<!--      </div>-->
+<!--    </a></li>-->
     {% endfor %}
   </ul>
 
