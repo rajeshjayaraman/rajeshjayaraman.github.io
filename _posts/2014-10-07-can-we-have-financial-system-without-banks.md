@@ -6,7 +6,6 @@ categories:
     - "archive"
 published: true
 ---
-
 Bloomberg Businessweek published an [interesting interview with Marc Andreessen](http://www.bloomberg.com/news/2014-10-07/andreessen-on-finance-we-can-reinvent-the-entire-thing-.html) today in which he says that technologists can reinvent the entire financial system. He discusses in depth two areas: Unbundling of credit intermediation with credit underwriting using new/different/big data and Bitcoin. Any such discussion about "disrupting" finance always comes down to the question of what happens to commercial banks [^fn-foot1]. Can we have a financial system without banks as we know them today?
 
 Before we answer that question, lets revisit the definition of what a bank is and what it does. This [Investopedia](http://www.investopedia.com/university/banking-system/banking-system2.asp) article is sufficient to give us the lay of the land. Banks perform four essential functions: Payment settlement (or liquidity provision), Credit intermediation (borrowing from depositors and lending to borrowers), Maturity transformation (providing immediate funds to depositors while making long maturity loans to borrowers), and money creation.
