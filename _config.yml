@@ -27,6 +27,10 @@ github_username:  rajeshjayaraman
 markdown: kramdown
 remote_theme: rajeshjayaraman/jekyll-theme
 
+collections:
+  category:
+    output: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
