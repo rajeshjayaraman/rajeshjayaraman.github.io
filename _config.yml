@@ -25,7 +25,6 @@ github_username:  rajeshjayaraman
 
 # Build settings
 markdown: kramdown
-remote_theme: rajeshjayaraman/jekyll-theme
 
 collections:
   category:
