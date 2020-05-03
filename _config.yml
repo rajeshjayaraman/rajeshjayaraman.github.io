@@ -15,8 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: Rajesh Jayaraman
 email: rajesh@rajeshj.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Rajesh Jayaraman's website.
+#description: >- # this means to ignore newlines until "baseurl:"
+#  Rajesh Jayaraman's website.
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://rajeshj.com" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
@@ -42,5 +42,7 @@ remote_theme: rajeshjayaraman/jekyll-theme
 #plugins:
 #  - jekyll-paginate
 #
-#paginate: 3
+#paginate: 10
 #paginate_path: "/page/:num/"
+
+hide_credits: true
