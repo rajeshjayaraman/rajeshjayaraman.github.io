@@ -6,7 +6,6 @@ categories:
     - "archive"
 published: true
 ---
-{% include JB/setup %}
 
 [Marc Andreessen's article](http://dealbook.nytimes.com/2014/01/21/why-bitcoin-matters/) this week triggered a debate that I was fortunate to be part of. Bitcoin clearly has a long way to go before it is a mainstream payment mechanism. This is important to emphasize because a lot of the [criticism](https://medium.com/the-magazine/23e551c67a6) aimed at Bitcoin is about how certain *current* characteristics of the network and its participants make it unsuitable for widespread use. In this post I will try to add to the debate by outlining some areas where the Bitcoin ecosystem will need to develop on its way to becoming widely adopted.
 

@@ -6,7 +6,6 @@ categories:
     - "archive"
 published: true
 ---
-{% include JB/setup %}
 
 Bloomberg Businessweek published an [interesting interview with Marc Andreessen](http://www.bloomberg.com/news/2014-10-07/andreessen-on-finance-we-can-reinvent-the-entire-thing-.html) today in which he says that technologists can reinvent the entire financial system. He discusses in depth two areas: Unbundling of credit intermediation with credit underwriting using new/different/big data and Bitcoin. Any such discussion about "disrupting" finance always comes down to the question of what happens to commercial banks [^fn-foot1]. Can we have a financial system without banks as we know them today?
 
