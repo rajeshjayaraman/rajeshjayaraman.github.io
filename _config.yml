@@ -56,3 +56,4 @@ defaults:
 #paginate_path: "/page/:num/"
 
 hide_credits: true
+theme: jekyll-theme-dinky
